@@ -13,3 +13,8 @@ This page presents insights into the hiring process based on role and gender dis
 This page shows the churn and performance of the staff. 'Yes' indicates the churned staff. This visualization shows that the churn rate for both genders surpasses that of those who did not churn. Specifically, a significant percentage of male staff experienced churn, which is distributed across all role levels.
 
 ![Perf  churn](https://github.com/Remilekunolamide/Diversity-and-Inclusion/assets/134251336/94a376b9-76f5-4e65-9494-b0980852f228)
+
+## Age group and Role
+From this view, it is evident that all new executive staff hires in 2020 and 2021 were male. However, the data also shows an encouraging increase in female staff promotions to executive roles in the year 2021. overall analysis indicates that the company has a larger demographic of individuals aged 20 to 39, with a concentration of early career starters to mid-level professionals on their payroll compared to other age groups
+
+![Age role](https://github.com/Remilekunolamide/Diversity-and-Inclusion/assets/134251336/ff2ba0f6-e5ce-476e-8257-8350d5c6842f)
