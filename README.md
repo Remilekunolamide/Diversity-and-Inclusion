@@ -18,3 +18,9 @@ This page shows the churn and performance of the staff. 'Yes' indicates the chur
 From this view, it is evident that all new executive staff hires in 2020 and 2021 were male. However, the data also shows an encouraging increase in female staff promotions to executive roles in the year 2021. overall analysis indicates that the company has a larger demographic of individuals aged 20 to 39, with a concentration of early career starters to mid-level professionals on their payroll compared to other age groups
 
 ![Age role](https://github.com/Remilekunolamide/Diversity-and-Inclusion/assets/134251336/ff2ba0f6-e5ce-476e-8257-8350d5c6842f)
+
+## Conclusion and Suggestion
+In conclusion, this analysis provided a comprehensive assessment of gender diversity and inclusion in executive positions. It helped reveal areas needed for improvement such as the gender disparity in executive hires.  It is worth noting that the company has improved particularly in female promotion to executive roles over the last year. However, further studies needed to be carried out to ascertain the mass churning of male executives and seniors. The findings can guide the company's efforts to foster a more inclusive and diverse workplace, especially in executive positions
+
+![image](https://github.com/Remilekunolamide/Diversity-and-Inclusion/assets/134251336/3afc5f60-047b-41b9-bc7a-9baf71309a0e)
+
